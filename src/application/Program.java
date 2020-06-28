@@ -10,6 +10,8 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner (System.in);
 		
+		System.out.println("This is just a beta program to classes. It is not a real program!!");
+		
 		// criar programa que calcule a area dos triangulos X e y . Ao final dizer qual tem maior área (ler o tamanho dos lados no console)
 		Triangle x, y;
 		x = new Triangle();
